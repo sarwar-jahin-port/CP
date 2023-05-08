@@ -1,0 +1,1 @@
+{"name":"Local: tea_with_tangerianes","url":"/home/teck-sink/Desktop/CP/cf_900_ratings/tea_with_tangerianes.cpp","tests":[{"id":1679910217274,"input":"3\n5\n1 2 3 4 5\n1\n1033\n5\n600 900 1300 2000 2550","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/teck-sink/Desktop/CP/cf_900_ratings/tea_with_tangerianes.cpp","group":"local","local":true}

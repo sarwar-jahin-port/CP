@@ -1,0 +1,1 @@
+{"name":"Local: binary_search","url":"/home/teck-sink/Desktop/CP/binary_search/binary_search.cpp","tests":[{"id":1682498527647,"input":"5 3\n1 5 4 3 2\n5\n3\n6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/teck-sink/Desktop/CP/binary_search/binary_search.cpp","group":"local","local":true}

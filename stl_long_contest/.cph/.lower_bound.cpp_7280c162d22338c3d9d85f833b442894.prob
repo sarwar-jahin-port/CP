@@ -1,0 +1,1 @@
+{"name":"Local: lower_bound","url":"/home/teck-sink/Desktop/CP/stl_long_contest/lower_bound.cpp","tests":[{"id":1679327604918,"input":"8\n1 1 2 2 6 9 9 15\n4\n1\n4\n9\n15","output":"Yes 1\nNo 5\nYes 6\nYes 8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/teck-sink/Desktop/CP/stl_long_contest/lower_bound.cpp","group":"local","local":true}
